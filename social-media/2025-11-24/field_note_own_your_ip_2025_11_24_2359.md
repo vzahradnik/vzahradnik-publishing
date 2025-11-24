@@ -24,6 +24,8 @@ Logos and visuals can always come later; the **name** must be defensible today.
 The good news? Through the **EUIPO SME Fund**, small and medium businesses can receive **up to 75% reimbursement**.  
 Applying for the voucher costs nothing except time — and only after approval do you submit the actual trademark filing.
 
+> Note: The 2025 EUIPO SME Fund is now exhausted. If you plan to apply, keep an eye on the next funding cycle — these vouchers disappear fast.
+
 For me, the full process took:
 - ~7 hours of focused work,
 - **€1500 upfront**,
