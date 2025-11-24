@@ -3,29 +3,51 @@
 
 ---
 
-Conferences often begin small — driven by **passion**, **curiosity**, and **dialogue**.
+I’ve noticed a pattern over the years.
 
-But as they grow, something shifts.  
-The focus drifts from *ideas* to *influence*, from *signal* to *noise*.
+A small group of enthusiasts launches a focused, passionate conference — web development, AI, game design, cybersecurity, it doesn’t matter. The early versions are alive with signal: builders sharing what they know, practitioners exchanging real insight.
 
-Bigger halls. Louder lights. Famous faces.  
-And yet, the more they expand, **the less they transmit**.
+Then the event grows.
 
-People leave stimulated — but not transformed.
+Sponsors appear — Google, Meta, Microsoft.  
+Speaker slots shift from people who *build* to people who *promote.*  
+From craftsmen to personalities.  
+From depth to visibility.
+
+Growth isn’t the issue.  
+**Direction is.**
+
+Each year the organizers chase the same outcome:  
+Bigger. Louder. Flashier. More influencers. More tracks. More everything.
+
+But not necessarily **more meaningful**.
+
+Recently, I attended an event smaller than Web Summit, yet the same dynamic appeared. Three days, two parallel tracks, ten hours of talks per day.
+
+How much did I actually absorb?  
+Two or three sessions a day — the ones where I was fully present, taking notes, thinking deeply. That was enough. More would have pushed me straight into cognitive noise.
+
+This is the paradox of choice in action.
+
+The more parallel speakers you add, the less depth the audience receives. It’s the same psychology behind dating apps and e-commerce marketplaces: endless options flatten attention.
+
+You leave with selfies, hashtags, and overstimulation — but not clarity.
+
+It makes me wonder:
+
+**What if conferences were built differently?**
+
+One stage.  
+A handful of speakers.  
+Curated not for reach, but for coherence and depth.  
+Talks chosen for insight, not follower count.  
+Every minute crafted with intention.
+
+**Less is more.  
+Signal beats noise.
 
 ---
 
-Some of us are quietly crafting a different kind of convergence.  
-One that remembers **why** gatherings matter.
+**Suggested Hashtags:**  
+#conferences #communication #productivity #events #design #leadership #signalovernoise**
 
-A space where every word, sound, and light serves the **message**, not the ego.
-
-The next evolution of conferences won’t be louder.  
-It will be **truer**.
-
-*Photo by Alexandre Pellaes on Unsplash*
-
----
-
-### **Suggested Medium Hashtags**
-#Conferences #Leadership #Communication #Design #ExperienceDesign #Events #Consulting #WorkCulture
