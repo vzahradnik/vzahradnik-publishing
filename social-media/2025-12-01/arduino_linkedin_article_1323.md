@@ -74,7 +74,7 @@ For serious work I pair VS Code with JetBrains CLion to get real static analysis
 ## 10. Professional Developer Flows Are DIY
 CI/CD? Hardware farms? Automated testing? Versioned dependencies? L10n/i18n? Code generation?
 
-All possible — but unsupported. You build everything yourself because most of the community is still hobbyists.
+All possible — but mostly unsupported. You build everything yourself because most of the community is still hobbyists.
 
 ## 11. Lack of Integrated Solutions
 Arduino has countless libraries, but almost no cohesive frameworks.
