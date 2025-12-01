@@ -74,7 +74,7 @@ For serious work I pair VS Code with JetBrains CLion to get real static analysis
 ## 10. Professional Developer Flows Are DIY
 CI/CD? Hardware farms? Automated testing? Versioned dependencies? L10n/i18n? Code generation?
 
-All possible — but mostly unsupported. You build everything yourself because most of the community is still hobbyists.
+All of this is possible — and tools like PlatformIO or various unit-test frameworks do exist — but none of it is first-class or standard in the Arduino world. If you need professional flows, you typically assemble them yourself, because the ecosystem is still driven primarily by hobbyists rather than production-grade requirements.
 
 ## 11. Lack of Integrated Solutions
 Arduino has countless libraries, but almost no cohesive frameworks.
