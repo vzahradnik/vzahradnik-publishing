@@ -5,6 +5,7 @@
 ---
 
 # How to Protect Your Mini SaaS Business? My Advice Is Unconventional.
+Excerpt: When Gemini rebuilt ~98% of my client’s SaaS from public information, it became clear: cybersecurity isn’t enough. What founders need now is moatsecurity — a strategic defense against AI-driven replication.
 
 One of my clients runs a small SaaS business. Competitive niche, modest revenues — but still enough to live comfortably.
 
