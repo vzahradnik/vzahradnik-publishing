@@ -69,4 +69,3 @@ Writing this post will:
 ---
 
 **This idea is captured and ready for future expansion into a full post.**
-
