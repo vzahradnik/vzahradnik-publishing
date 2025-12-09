@@ -1,0 +1,2 @@
+## LinkedIn Pulse Intro — Unicorn Without Grind (Draft)
+**There’s a question founders ask me again and again:** *Do you really believe it’s possible to build something extraordinary without burning out or grinding yourself into dust?* My answer is yes — but only if you refuse to copy Silicon Valley’s tempo and instead design a system that protects your longevity, clarity, and sovereignty. This short piece explains why I’m deliberately building on a 30-year horizon — and why the absence of grind is not a weakness, but a strategic advantage.
